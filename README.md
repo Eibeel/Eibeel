@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **JavaScript and Design UX/UI**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
