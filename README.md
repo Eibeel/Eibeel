@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eibel</h1>
-<h3 align="center">Un apasionado diseñador ux/ui y desarrollador frontend.</h3>
+<h3 align="center">Me apasiona el diseño ux/ui y el desarrollo frontend.</h3>
 
 - Estoy aprendiendo **JavaScript y Diseño UX/UI**
 
