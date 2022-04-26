@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eibel</h1>
-<h3 align="center">A passionate frontend designer and developer.</h3>
+<h3 align="center">Un apasionado diseñador ux/ui y desarrollador frontend.</h3>
 
-- 🌱 I’m currently learning **JavaScript and Design UX/UI**
+- Estoy aprendiendo **JavaScript y Diseño UX/UI**
 
 <p align="left">
 </p>
