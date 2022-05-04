@@ -1,4 +1,4 @@
-<h4 align="center">Me apasiona el diseño ux/ui y el desarrollo frontend.</h4>
+<h4 align="center">Me apasiona el Desarrollo Frontend y Diseño UX/UI</h4>
 
 - Estoy aprendiendo **JavaScript**
 
