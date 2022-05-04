@@ -1,6 +1,6 @@
 <h4 align="center">Me apasiona el diseño ux/ui y el desarrollo frontend.</h4>
 
-- Estoy aprendiendo **JavaScript y Diseño UX/UI**
+- Estoy aprendiendo **JavaScript**
 
 <p align="left">
 </p>
